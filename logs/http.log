@@ -1,0 +1,7 @@
+2024-06-09 10:07:56,981 - /home/vanquyen792002tlhy/Internal Training NeuronD/FastAPI/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2024-06-09 10:17:21,362 - /home/vanquyen792002tlhy/Internal Training NeuronD/FastAPI/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2024-06-09 10:17:54,347 - /home/vanquyen792002tlhy/Internal Training NeuronD/FastAPI/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2024-06-09 10:17:54,870 - /home/vanquyen792002tlhy/Internal Training NeuronD/FastAPI/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
+2024-06-09 10:18:24,423 - /home/vanquyen792002tlhy/Internal Training NeuronD/FastAPI/middleware/http.py - INFO - 127.0.0.1 - "POST /catdog_classification/predict 1.1" 200 0.08s
+2024-06-10 08:03:41,598 - /home/vanquyen792002tlhy/Internal Training NeuronD/FastAPI/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2024-06-10 08:03:55,344 - /home/vanquyen792002tlhy/Internal Training NeuronD/FastAPI/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
