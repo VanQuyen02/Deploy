@@ -1,0 +1,5 @@
+torch==2.2.1
+torchvision==0.17.1
+streamlit==1.13.0
+pillow
+altair==4.1.0
